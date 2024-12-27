@@ -1,4 +1,4 @@
-# Smart Ticketing and QR Boarding System
+# Smart Ticketing and QR Boarding Systems
 
 The **Smart Ticketing and QR Boarding System** is an innovative solution designed to modernize public transportation by replacing traditional ticketing processes with a digital, automated framework. This project leverages QR codes and secure payment mechanisms to streamline ticketing, boarding, and fare management, providing an efficient and user-friendly experience for passengers and operators alike.
 
